@@ -1,0 +1,12 @@
+{
+    "name": "Simple Todos Chrome Extension",
+    "description": "Simple Extension using Svelte and Tailwind",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "src/popup/index.html"
+    },
+    "permissions": [
+        "storage"
+    ]
+}
